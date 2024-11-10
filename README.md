@@ -16,7 +16,7 @@ This project is a simple music recommender model that predicts your music taste 
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gitau189/music-recommender-model.git
+   git clone [[https://github.com/Gitau189/music-recommender-model.git](https://github.com/Gitau189/music-recommender-model)](https://github.com/Gitau189/music-recommender-model)
    ```
 2. Navigate to the project directory:
    ```bash
